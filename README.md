@@ -5,7 +5,8 @@ first, second.. I mean if you don't mind, may I don't participate
 in that very interesting full of content and meaning communication?
 
 Thanks, now I feel that this will be my favorite round be cos the
-first problem is super easy:) hash tag hash
+first [problem](https://ioinformatics.org/files/ioi1998problem1.pdf)
+is super easy:) hash tag hash
 
 ```JavaScript
 Contact
